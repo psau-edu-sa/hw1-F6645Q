@@ -2,7 +2,8 @@
 hw1-F6645Q created by GitHub Classroom
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/a/a3/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D8%B3%D8%B7%D8%A7%D9%85_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2.png)](https://rishavchanda.io
 )
-
+![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/cae8a56f-abf1-4552-ba61-3e0e5ccda6b1)
+![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/28d6ba47-db38-4f05-ac11-7b0b53704a78)
 <h3 algin="left">The assignment was talking about analyzing the site, basic criteria, and the following criteria used are included:• Define the purpose of the website. 
 • Explain its services. 
 • What is the category of the business, and is this obvious on the website? 
@@ -22,8 +23,6 @@ browsers.
 website's links. 
 • Does the website work in different browsers? Check all the widely used 
 browsers. </h3>
-![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/cae8a56f-abf1-4552-ba61-3e0e5ccda6b1)
-![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/28d6ba47-db38-4f05-ac11-7b0b53704a78)
 
 <h1 align="center">Hi Iam Fahad Alghamdi </h1>
 <h3 align="center">CTF player and software engineering student at Prince Sattam bin Abdulaziz University</h3>
