@@ -22,8 +22,9 @@ browsers.
 website's links. 
 • Does the website work in different browsers? Check all the widely used 
 browsers. </h3>
-![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/2f86f1d4-7be0-4912-9fc2-8e67de8bef16)
-![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/d8de2329-731e-4c53-b274-eec79827a6f7)
+![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/cae8a56f-abf1-4552-ba61-3e0e5ccda6b1)
+![image](https://github.com/psau-edu-sa/hw1-F6645Q/assets/135424120/28d6ba47-db38-4f05-ac11-7b0b53704a78)
+
 <h1 align="center">Hi Iam Fahad Alghamdi </h1>
 <h3 align="center">CTF player and software engineering student at Prince Sattam bin Abdulaziz University</h3>
 <h3 algin="left">
